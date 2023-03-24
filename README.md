@@ -1,4 +1,4 @@
-# About Me - Recruitment Management System
+# Recruitment Management System
 
 Hello, my name is George Ayman, and I am part of the creator team of the Recruitment Management System. This application was built using Java and JavaFX, and it provides employees with a simple and efficient way to write their CVs, look for job opportunities, and apply to them.
 

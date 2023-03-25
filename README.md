@@ -33,4 +33,4 @@ To use the Recruitment Management System, you will need to have Java and JavaFX 
 4. Check your job application status and receive notifications when a job offer is accepted.
 5. Use the admin panel to manage user accounts and job listings.
 
-Thank you for considering my project.
+
